@@ -21,8 +21,8 @@ ____ _     ___ ____
 
 <h1>Installation and use.</h1>
 <h2>It's really simple. First:</h2>
-<0l>
+<ol>
 	<li>Install the latest version of Python on https://www.python.org/</li>
 	<li>Install the raw "clipass.py" File from the "src" Folder in this Repo or simply clone this GitHub Repo somewhere and CD onto the File's Path with your Terminal.</li>
 	<li>At last, run the command "python clipass.py" And you're good to go.</li>
-</0l>
+</ol>

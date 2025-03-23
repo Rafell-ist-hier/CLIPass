@@ -3,13 +3,7 @@ import io
 from pathlib import Path
 from contextlib import chdir
 
-print("
-   ____ _     ___ ____
-  / ___| |   |_ _|  _ \ __ _ ___ ___
- | |   | |    | || |_) / _` / __/ __|
- | |___| |___ | ||  __/ (_| \__ \__ \_
-  \____|_____|___|_|   \__,_|___/___(_)
-/n")
+print("CLIPass.")
 print("A Python-Programmed CLI Tool for quickly but/n")
 print("not so safely storing Passwords in Text files.\n")
 print("Made by Rafell.")

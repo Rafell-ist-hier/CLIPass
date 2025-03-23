@@ -1,4 +1,4 @@
-<h1>CLIPass.</h1>
+<img src="assets/clipass_ascii_logo.png">
 <h2>A Python-Programmed CLI Tool for quickly but not so safely storing Passwords in Text files.</h2>
 <h2>Made by Rafell.</h2>
 <h1>----- WARNING -----</h1>
@@ -20,4 +20,7 @@
 	<li>Install the latest version of Python on https://www.python.org/</li>
 	<li>Install the raw "clipass.py" File from the "src" Folder in this Repo or simply clone this GitHub Repo somewhere and CD onto the File's Path with your Terminal.</li>
 	<li>At last, run the command "python clipass.py" And you're good to go.</li>
+	<li>And in case you want a binary and not just running the code constantly, you'll need to install PyInstaller with PIP, to do that, you must run "pip install pyinstaller" in your Terminal.</li>
+	<li>And at last, simply CD into where the "clipass.py" File is and run the command "pyinstaller clipass.py" and pronto, you got yourself a "build" Folder with a executable inside.</li>
 </ol>
+<h2>You can also consider using a prebuilt binary in Releases or in the "binaries" Folder from the Repo, but it is preferable that you just build your own.</h2>
